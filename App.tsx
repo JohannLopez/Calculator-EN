@@ -3,7 +3,7 @@ import React, { useState, useCallback, useEffect } from 'react';
 import { CalculatorForm } from './components/CalculatorForm';
 import { ResultsDisplay } from './components/ResultsDisplay';
 import { HistoryDisplay } from './components/HistoryDisplay';
-import { LoadingSpinner } from './components/icons';
+import { LoadingSpinner } from './components/Icons';
 import type { FormData, CalculationResult, Country, CostBreakdownItem, HistoryEntry, MetricOverrides } from './types';
 import { generateQualitativeAnalysis } from './services/geminiService';
 import { COUNTRIES, INDUSTRY_METRICS, INDUSTRY_OPTIONS, SECTORS } from './constants';
