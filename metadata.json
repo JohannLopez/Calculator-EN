@@ -1,0 +1,5 @@
+{
+  "name": "PLM Inefficiency Cost Calculator EN",
+  "description": "An advanced calculator to estimate the hidden costs of inefficiency in manufacturing companies that do not use a PLM system. The application analyzes various factors such as engineering time, BOM errors, and rework to provide a detailed cost estimate.",
+  "requestFramePermissions": []
+}
